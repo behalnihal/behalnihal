@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/behalnihal" target="blank"><img src="https://img.shields.io/twitter/follow/behalnihal?logo=twitter&style=for-the-badge" alt="behalnihal" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **various OpenSource Projects**
 
