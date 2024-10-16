@@ -3,19 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=behalnihal&label=Profile%20views&color=0e75b6&style=flat" alt="behalnihal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=behalnihal" alt="behalnihal" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/behalnihal" target="blank"><img src="https://img.shields.io/twitter/follow/behalnihal?logo=twitter&style=for-the-badge" alt="behalnihal" /></a> </p>
-
-- 🌱 I’m currently learning **MERN stack**
-
-- 👯 I’m looking to collaborate on **various OpenSource Projects**
-
-- 💬 Ask me about **C++**
-
-- 📫 How to reach me **nihalgupta140@gmail.com**
-
-- ⚡ Fun fact **sometimes i sing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
